@@ -3,6 +3,6 @@
 
 
 Curso de Dinámica de sistemas presentado por el Ingeniero Jorge Cote 
-* Aqui se subiran las clases usando MarkDown
+* Aqui se subiran las clases usando MarkDown usando el sistema de ramas de Github
 ___
 ___
